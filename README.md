@@ -22,6 +22,24 @@ Please note that this dataset serves as a valuable historical resource and shoul
 
 The dataset provides the history of daily price of   Microsoft Stock depending on USD.
 
+
+## open 
+![Screenshot 2023-08-29 151300](https://github.com/knitheesh/Time_Series_Analysis/assets/114756034/c84cce81-ff1c-49be-a90f-1efce9908cca)
+
+## High
+![Screenshot 2023-08-29 151324](https://github.com/knitheesh/Time_Series_Analysis/assets/114756034/403fc1b8-5d24-4c72-99f3-13cb49489449)
+
+## Low
+![Screenshot 2023-08-29 151337](https://github.com/knitheesh/Time_Series_Analysis/assets/114756034/04b2022a-bfa0-4583-b910-4406460bb13f)
+
+## Close
+![Screenshot 2023-08-29 151346](https://github.com/knitheesh/Time_Series_Analysis/assets/114756034/29a13304-2647-42ae-baf8-25ac46e5970c)
+
+## Volume
+![Screenshot 2023-08-29 151357](https://github.com/knitheesh/Time_Series_Analysis/assets/114756034/290b31b2-6704-4565-a0ff-882af70f1fc0)
+
+
+
 # Conclusion :
 
 According to the time series analysis of for this particular dataset we found that ("open","High","Low","Close") are the columns in which trades in increasing manner but in the year 2020-21 the stocks are goes in decreasing manner according to the volume chart for particular dataset year 2016-17 gives a little bit of more profit to investments in a stocks.
